@@ -1,12 +1,12 @@
 # JavaChatApp
 __Description__
 
-A minor chat application in java that helps with server and client relationships using sockets and gui creation and creating multiple threads through multithreading that I managed to build in order to enhance my knowledge in server client architecture 
+A minor chat application in java that helps with server and client relationships using sockets and GUI creation and creating multiple threads through multithreading that I managed to build in order to enhance my knowledge in server client architecture as well as multithreading
 
  **Instructions**
 
 __Please Run this first__
-To run the app you first run the server by runniing the Chat Server file in you java IDE for me it waas netbeans IDE,I highly reccomend it
+To run the app you first run the server by runniing the ChatServer file in you java IDE for me it was netbeans IDE,*I highly reccomend it*
 Doing this will then allow you to set up the main server that will act as the midpoint in the app
 Once you do this youll get "server started. waiting for clients..." in your output: You have now set up a new server on your localhost machine running on port 5000
 
