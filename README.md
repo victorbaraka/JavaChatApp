@@ -13,7 +13,8 @@ Once you do this youll get "server started. waiting for clients..." in your outp
 You then run the ChatGui file
 You will then be prompted to input your username 
 You will need to run this twice in order to instanciate various clients as they will be each threaded separately in the server 
-Onc you are in the GUI you will type whichever message you please in the messsagebox in the bottom then press enter to send and doing that will broadcast the message to various instances with the timestamp and the username respectively and in order to close the application you press the exit button next to the messagebox
+Once you are in the GUI you will type whichever message you please in the messsagebox in the bottom then press enter to send and doing that will broadcast the message to various instances with the timestamp and the username respectively and in order to close the application you press the exit button next to the messagebox
 
 __Permissions__
 Feel free to add anything to help enhance the app it will be mucgh appreciated as well as elaborating on where improvements were made as I will be doing the same over time 
+I also hope to better improve it to be over more than the localhost but between various devices as well as incorporating more features
